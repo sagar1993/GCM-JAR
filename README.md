@@ -3,4 +3,4 @@
 
 #Usage
 
-java -jar messages.jar <message>
+java -jar messages.jar \<message>
